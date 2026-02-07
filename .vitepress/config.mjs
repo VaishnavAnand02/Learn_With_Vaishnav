@@ -1,5 +1,5 @@
 export default {
-  base: '/learning_notes/',
+  base: '/Learn_With_Vaishnav/',
   title: "My Learning Notes",
   description: "SQL and Programming Documentation",
   themeConfig: {
