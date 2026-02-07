@@ -14,7 +14,8 @@ export default {
           text: 'SQL Challenges',
           items: [
             { text: 'Introduction', link: '/sql/Intro' },
-            { text: 'Combine Two Tables', link: '/sql/Combine_Two_Tables' }
+            { text: 'Combine Two Tables', link: '/sql/Combine_Two_Tables' },
+            { text: 'Employees Earning More Than Their Managers', link: '/sql/EEMM' }
           ]
         }
       ]
