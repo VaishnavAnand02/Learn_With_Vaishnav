@@ -1,4 +1,4 @@
-# LeetCode Solution: Employees Earning More Than Their Managers
+# Employees Earning More Than Their Managers
 
 ## Problem Overview
 **Level:** Easy  
@@ -29,7 +29,8 @@ Write a solution to find the employees who earn more than their managers. Return
 | 3  | Sam   | 60000  | Null      |
 | 4  | Max   | 90000  | Null      |
 
-**Output:** | Employee |
+**Output:** table: 
+| Employee |
 |:---------|
 | Joe      |
 
